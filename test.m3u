@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" group-title="XINT TRIAL Radio",Mustang FM
+#EXTINF:0 tvg-id="ext" group-title="XINT TRIAL Radio",Mustang FM
 https://delivery.macan.live/stream/mustang_fm/index.m3u8?token=XINTIPTVTRIAL&v=20200202
-#EXTINF:-1 tvg-id="ext" group-title="XINT TRIAL Radio",Hard Rock FM
+#EXTINF:0 tvg-id="ext" group-title="XINT TRIAL Radio",Hard Rock FM
 https://delivery.macan.live/stream/hardrock_fm/index.m3u8?token=XINTIPTVTRIAL&v=20200202
-#EXTINF:-1 tvg-id="ext" group-title="XINT TRIAL Radio",Motion FM
+#EXTINF:0 tvg-id="ext" group-title="XINT TRIAL Radio",Motion FM
 https://delivery.macan.live/stream/motion_fm/index.m3u8?token=XINTIPTVTRIAL&v=20200202
-#EXTINF:-1 tvg-id="ext" group-title="XINT TRIAL Radio",Prambors FM
+#EXTINF:0 tvg-id="ext" group-title="XINT TRIAL Radio",Prambors FM
 https://delivery.macan.live/stream/prambors_fm/index.m3u8?token=XINTIPTVTRIAL&v=20200202
-#EXTINF:-1 tvg-id="ext" group-title="XINT TRIAL Radio",Trax FM
+#EXTINF:0 tvg-id="ext" group-title="XINT TRIAL Radio",Trax FM
 https://delivery.macan.live/stream/trax_fm/index.m3u8?token=XINTIPTVTRIAL&v=20200202
-#EXTINF:-1 tvg-id="ext" group-title="XINT TRIAL Radio",Elshinta FM
+#EXTINF:0 tvg-id="ext" group-title="XINT TRIAL Radio",Elshinta FM
 https://delivery.macan.live/stream/elshinta_fm/index.m3u8?token=XINTIPTVTRIAL&v=20200202
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Entertainment",8 (Ch 8)
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
