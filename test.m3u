@@ -11,6 +11,14 @@ https://delivery.macan.live/stream/prambors_fm/index.m3u8?token=XINTIPTVTRIAL&v=
 https://delivery.macan.live/stream/trax_fm/index.m3u8?token=XINTIPTVTRIAL&v=20200202
 #EXTINF:0 tvg-id="ext" group-title="XINT TRIAL Radio",Elshinta FM
 https://delivery.macan.live/stream/elshinta_fm/index.m3u8?token=XINTIPTVTRIAL&v=20200202
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="MOVIES CHANNEL",HBO FAMILY
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="MOVIES CHANNEL",HBO SIGNATURE
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="MOVIES CHANNEL",My Cinema Channel
+http://210.210.155.69/s/s31/S4/mnf.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV MALAYSIA",ASTRO MALAYSIA Suria
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Entertainment",8 (Ch 8)
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040372.png" tvg-country="ID" tvg-url="" group-title="",ADI TV
@@ -2046,7 +2054,7 @@ http://skdn.redi-vo.com/iptv/ch345?code=138137164006399&key=28076
 #EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/346.png",BeInSport Max 10
 http://skdn.redi-vo.com/iptv/ch346?code=138137164006399&key=22468
 #EXTINF:0 tvg-name="Astro Awani" tvg-language="Malayalam" tvg-country="MY" tvg-id="Astro Awani" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-j7C0DErUVHjgSY2cmOKTYfAEFr4gVhIiNZPPnV-ZlD-nl_VqkqbKIKc" group-title="News",Astro Awani (News) (MY) (Malayalam)
-http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 #EXTINF:-1,LTV1
 http://213.252.252.2/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD.m3u8
 #EXTINF:-1,LTV7
