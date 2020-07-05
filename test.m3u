@@ -64,7 +64,7 @@ https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="FUN",NICKELODEON
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 #EXTINF: -1 tvg-id="cartoon" tvg-name="" tvg-chno="727" group-title="FUN", Cartoon Network
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+https://delivery.macan.live/stream/cartoonnetwork_id/playlist.m3u8?token=k0wnE&v=20200308
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1130397670932008961/bFl07ZdC.png" group-title="Olahraga",Mola Sports
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 #EXTINF:0 tvg-id="" tvg-name="beINSports1HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="Olahraga",beIN Sport 1 HD
