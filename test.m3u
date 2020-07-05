@@ -63,7 +63,9 @@ https://brhn.xyz/stream/m3u/vidio-global-4july2020.m3u
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="FUN",NICKELODEON
 https://delivery.macan.live/stream/nickelodeon/playlist.m3u8?token=k0wnE&v=20200308
-#EXTINF: -1 tvg-id="cartoon" tvg-name="" tvg-chno="727" group-title="FUN", Cartoon Network
+#EXTINF: -1 tvg-id="CartoonNetwork.MACAN" tvg-logo="https://cdn.macan.live/img/cartoonnetwork.png" group-title="FUN", Cartoon Network (ENG)
+https://delivery.macan.live/stream/cartoonnetwork_en/playlist.m3u8?token=k0wnE&v=20200308
+#EXTINF: -1 tvg-id="CartoonNetwork.MACAN" tvg-logo="https://cdn.macan.live/img/cartoonnetwork.png" group-title="FUN", Cartoon Network (IDN)
 https://delivery.macan.live/stream/cartoonnetwork_id/playlist.m3u8?token=k0wnE&v=20200308
 #EXTINF: -1 tvg-name="Animax" tvg-chno="730" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="FUN", Animax
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AADy0VoVREUmRHdWdZkBrg-pa/animax %282%29.m3u8?dl=0
