@@ -61,12 +61,10 @@ https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 https://brhn.xyz/stream/m3u/vidio-global-4july2020.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Nasional",MNC SD
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="FUN",NICKELODEON
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 #EXTINF: -1 tvg-id="cartoon" tvg-name="" tvg-chno="727" group-title="FUN", Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1130397670932008961/bFl07ZdC.png" group-title="Olahraga",Mola Sports
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 #EXTINF:0 tvg-id="" tvg-name="beINSports1HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="Olahraga",beIN Sport 1 HD
@@ -182,57 +180,6 @@ http://brhn.xyz/stream/m3u/cdrama-4july2020.m3u
 http://brhn.xyz/stream/m3u/chinesedrama-4july2020.m3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="Film",Blue Ant Entertainment
 http://brhn.xyz/stream/m3u/blueant-4july2020.m3u
-
-
-
-#EXTINF:0 tvg-id="" tvg-name="cartoonnetwork.id" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Anak",Cartoon Network
-http://brhn.xyz/stream/m3u/cartoonnetwork-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/73-732656_dreamworkstv-dreamworks-tv-png-logo-transparent-png.png" group-title="Anak",Dreamwork
-http://brhn.xyz/stream/m3u/dreamworks-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Anak",Nickelodeon ID
-http://brhn.xyz/stream/m3u/nickelodeon-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="NickelodeonJr" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Anak",Nick Jr ID
-http://brhn.xyz/stream/m3u/nickjr-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/24jam.live/wp-content/uploads/2019/09/disney-junior.png" group-title="Anak",Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Anak",Animax
-http://brhn.xyz/stream/m3u/animax-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Anak",Aniplus
-http://brhn.xyz/stream/m3u/aniplus-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="Anak",Duck TV
-http://brhn.xyz/stream/m3u/ducktv-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="Anak",Horee
-http://brhn.xyz/stream/m3u/horee-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Anak",Boomerang
-http://brhn.xyz/stream/m3u/boomerang-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="Anak",Dunia Anak
-http://brhn.xyz/stream/m3u/duniaanak-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png" group-title="Anak",Davinci Learning
-http://brhn.xyz/stream/m3u/davinci-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="Anak",Toonmax
-http://45.126.83.51/qwr9ew/s/s50/01.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/53/f1/6b53f152-19f7-0f16-b013-3f68739b83ed/source/512x512bb.jpg" group-title="Anak",Larva TV
-http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mpng.subpng.com/20180614/gbo/kisspng-tom-cat-jerry-mouse-tom-and-jerry-tom-jerry-5b21e914857346.7487803615289490125466.jpg" group-title="Anak",Tom Jerry
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Anak",Baby First
-http://brhn.xyz/stream/m3u/babyfirst-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="Anak",Zoo Moo
-https://brhn.xyz/stream/m3u/vidio-zoomoo-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="Anak",Hip Hip Horee
-https://brhn.xyz/stream/m3u/vidio-hiphip-horee-4july2020.m3u
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/320px-Spacetoon.png" group-title="Anak",Spacetoon
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/03.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/41/f9/ef/41f9efdd5c0714b36bb78d7c2cc57e00.jpg" group-title="Anak",3ABN Kids
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://getlogovector.com/wp-content/uploads/2019/12/gemkids-logo-vector-xs.png" group-title="Anak",GEM Kids
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.giniko.com/logos/190x110/358.png" group-title="Anak",GEM Junior
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvepg.eu/img/france/logo/gong_max.png" group-title="Anak",Gong Max TV
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-
-
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="Pengetahuan",History HD
 http://brhn.xyz/stream/m3u/history-4july2020.m3u
