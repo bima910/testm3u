@@ -2,6 +2,8 @@
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ANIPLUS
 http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ANIPLUS 2
+https://oxoo.lk21tvonlineid.com/m3u/aniplus.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",MNC TV
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GTV
