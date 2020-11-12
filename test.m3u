@@ -1,27 +1,11 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="",ANIMAX
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",ANIPLUS
-http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",ANIPLUS 2
-https://oxoo.lk21tvonlineid.com/m3u/aniplus.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",MNC TV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",GTV
-https://mkctv.net/josmkc/gtv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TPSZFMs/20200225-085643.png" group-title="INDONESIA",NET TV 
-https://www.youtube.com/watch?v=Srasc_Yur54&ab_channel=GTV-Komedi
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="INDONESIA",TRANS 7 
-https://mkctv.net/vidbos/trans7.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png"group-title="INDONESIA",TV ONE 
-http://210.210.155.35/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png" group-title="INDONESIA",TRANS TV 
-https://mkctv.net/vidbos/trans.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0Vk19B2/20200225-090727.png" group-title="INDONESIA",RTV
-http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="INDONESIA",INEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VQRrBtd/20200225-090424.png" group-title="INDONESIA",METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_b628000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="",AWAS ADA SULE eps 11
+https://www.youtube.com/watch?v=B5_t4OWzaAE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="",AWAS ADA SULE eps 11
+https://www.youtube.com/watch?v=PGJlf_SDHAg&ab_channel=GTV-Komedi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="",AWAS ADA SULE eps 11
+https://www.youtube.com/watch?v=meCpS9ic7e8&t=1998s&ab_channel=GTV-Komedi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="",AWAS ADA SULE eps 11
+https://www.youtube.com/watch?v=6BbfqF_g_mE&ab_channel=GTV-Komedi
+
+
 
